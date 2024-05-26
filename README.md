@@ -35,7 +35,7 @@ algoEye(title = "Algorithm #0629") {
 ```
 Output
 -----
-<img width="500" alt="" src="img.png">
+<img width="400" alt="" src="img.png">
 
 
 Unit Tests
