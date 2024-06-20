@@ -65,5 +65,3 @@ License
 Copyright (C) 2024 Mehdi Janbarari (@janbarari)
 
 AlgoEye binaries and source code can be used according to the [MIT License](LICENSE).
-
-<b>Dedicated To Mehrasa ❤️</b>
